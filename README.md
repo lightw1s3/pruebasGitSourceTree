@@ -1,2 +1,2 @@
 # pruebasGitSourceTree
-PruebasTIP
+Pruebas OSI
